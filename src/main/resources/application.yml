@@ -1,0 +1,10 @@
+server :
+  port : 8000
+spring:
+  devtools:
+    livereload:
+      enabled: true
+  redis:
+    host: localhost
+  profiles:
+    active: dev
