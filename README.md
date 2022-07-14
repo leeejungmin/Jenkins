@@ -4,7 +4,4 @@ Hello Jung!
 Nice
 
 Good
-!!!!
 
-!!!!
-!!!!
