@@ -2,11 +2,11 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination : /home/ubuntu/eureka_server/
+    destination : /home/ubuntu/team5/
   #복사할 파일 지정(src -> 대상경로)
 # 디렉토니나 파일의 권한 설정
 permissions:
-  - object : /home/ubuntu
+  - object : /home/ubuntu/team5/
     pattern: "**"
     owner : root
     group : root
